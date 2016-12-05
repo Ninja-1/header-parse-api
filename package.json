@@ -1,0 +1,27 @@
+{
+  "name": "header-parse-api",
+  "version": "1.0.0",
+  "description": "freeCodeCamp header parser microservice",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ninja-1/header-parse-api.git"
+  },
+  "keywords": [
+    "freecodecamp",
+    "header"
+  ],
+  "author": "ninja-1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ninja-1/timestamp-api/issues"
+  },
+  "homepage": "https://github.com/Ninja-1/timestamp-api#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-useragent": "^1.0.4"
+  }
+}
